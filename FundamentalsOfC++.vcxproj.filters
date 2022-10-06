@@ -13,7 +13,7 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Fundamentals of C++">
+    <Filter Include="Header Files\Fundamentals of C++">
       <UniqueIdentifier>{1f86e82c-3ed3-49d7-bb08-33f70bcc50c7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -24,10 +24,22 @@
     <ClCompile Include="WelcomeMessage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DataTypeSize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LibraryBooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="WelcomeMessage.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Fundamentals of C++</Filter>
+    </ClInclude>
+    <ClInclude Include="DataTypeSize.h">
+      <Filter>Header Files\Fundamentals of C++</Filter>
+    </ClInclude>
+    <ClInclude Include="LibraryBooks.h">
+      <Filter>Header Files\Fundamentals of C++</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

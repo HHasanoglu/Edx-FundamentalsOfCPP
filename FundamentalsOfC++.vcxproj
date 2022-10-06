@@ -127,10 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataTypeSize.cpp" />
     <ClCompile Include="FundamentalsOfC++.cpp" />
+    <ClCompile Include="LibraryBooks.cpp" />
     <ClCompile Include="WelcomeMessage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DataTypeSize.h" />
+    <ClInclude Include="LibraryBooks.h" />
     <ClInclude Include="WelcomeMessage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

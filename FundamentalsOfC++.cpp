@@ -4,6 +4,8 @@
 #include <iostream>
 #include <string>
 #include "WelcomeMessage.h"
+#include "DataTypeSize.h"
+#include "LibraryBooks.h"
 using namespace std;
 int main()
 {
@@ -78,6 +80,8 @@ int main()
     //char ch = 'A';
     //cout << ch;
     WelcomeMessage::Run();
+    DataTypeSize::Run();
+    LibraryBooks::Run();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

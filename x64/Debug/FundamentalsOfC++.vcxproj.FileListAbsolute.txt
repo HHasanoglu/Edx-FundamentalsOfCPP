@@ -1,1 +1,2 @@
 D:\Hamid1\Hassanzada\Projects\C++\Learning\FundamentalsOfC++\x64\Debug\FundamentalsOfC++.exe
+D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\x64\Debug\FundamentalsOfC++.exe
