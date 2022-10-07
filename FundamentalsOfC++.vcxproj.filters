@@ -30,6 +30,9 @@
     <ClCompile Include="LibraryBooks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ADaysSalary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="WelcomeMessage.h">
@@ -39,6 +42,9 @@
       <Filter>Header Files\Fundamentals of C++</Filter>
     </ClInclude>
     <ClInclude Include="LibraryBooks.h">
+      <Filter>Header Files\Fundamentals of C++</Filter>
+    </ClInclude>
+    <ClInclude Include="ADaysSalary.h">
       <Filter>Header Files\Fundamentals of C++</Filter>
     </ClInclude>
   </ItemGroup>

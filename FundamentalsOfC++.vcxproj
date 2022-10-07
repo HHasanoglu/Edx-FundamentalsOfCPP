@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ADaysSalary.cpp" />
     <ClCompile Include="DataTypeSize.cpp" />
     <ClCompile Include="FundamentalsOfC++.cpp" />
     <ClCompile Include="LibraryBooks.cpp" />
     <ClCompile Include="WelcomeMessage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ADaysSalary.h" />
     <ClInclude Include="DataTypeSize.h" />
     <ClInclude Include="LibraryBooks.h" />
     <ClInclude Include="WelcomeMessage.h" />

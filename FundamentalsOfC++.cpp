@@ -6,6 +6,7 @@
 #include "WelcomeMessage.h"
 #include "DataTypeSize.h"
 #include "LibraryBooks.h"
+#include "ADaysSalary.h"
 using namespace std;
 int main()
 {
@@ -79,9 +80,11 @@ int main()
 
     //char ch = 'A';
     //cout << ch;
+
     WelcomeMessage::Run();
     DataTypeSize::Run();
     LibraryBooks::Run();
+    ADaysSalary::Run();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
