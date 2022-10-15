@@ -1,4 +1,2 @@
 ﻿  FundamentalsOfC++.cpp
-  LibraryBooks.cpp
-  Generating Code...
-  FundamentalsOfC++.vcxproj -> D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\x64\Debug\FundamentalsOfC++.exe
+D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\FundamentalsOfC++.cpp : fatal  error C1041: cannot open program database 'D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\x64\Debug\vc143.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS

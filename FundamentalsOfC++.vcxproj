@@ -129,14 +129,28 @@
   <ItemGroup>
     <ClCompile Include="ADaysSalary.cpp" />
     <ClCompile Include="DataTypeSize.cpp" />
+    <ClCompile Include="DisplayASCII.cpp" />
+    <ClCompile Include="DisplayCharacters.cpp" />
+    <ClCompile Include="FindSeason.cpp" />
     <ClCompile Include="FundamentalsOfC++.cpp" />
+    <ClCompile Include="IncrementCalculation.cpp" />
     <ClCompile Include="LibraryBooks.cpp" />
+    <ClCompile Include="MovieTicketCalculation.cpp" />
+    <ClCompile Include="MultiplyFirstAndLastInteger.cpp" />
+    <ClCompile Include="SalaryInformation.cpp" />
     <ClCompile Include="WelcomeMessage.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ADaysSalary.h" />
     <ClInclude Include="DataTypeSize.h" />
+    <ClInclude Include="DisplayASCII.h" />
+    <ClInclude Include="DisplayCharacters.h" />
+    <ClInclude Include="FindSeason.h" />
+    <ClInclude Include="IncrementCalculation.h" />
     <ClInclude Include="LibraryBooks.h" />
+    <ClInclude Include="MovieTicketCalculation.h" />
+    <ClInclude Include="MultiplyFirstAndLastInteger.h" />
+    <ClInclude Include="SalaryInformation.h" />
     <ClInclude Include="WelcomeMessage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

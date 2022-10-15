@@ -16,36 +16,90 @@
     <Filter Include="Header Files\Fundamentals of C++">
       <UniqueIdentifier>{1f86e82c-3ed3-49d7-bb08-33f70bcc50c7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Fundamentals of C++\Module3">
+      <UniqueIdentifier>{8348640f-6043-4c4a-a672-c8a903658c03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Fundamentals of C++\Module4">
+      <UniqueIdentifier>{c1722d1a-1be7-49d0-9a0a-68befe8b58a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sources">
+      <UniqueIdentifier>{cf56fbb8-f450-4682-9f70-2eceaff024b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Fundamentals of C++\Module5">
+      <UniqueIdentifier>{ccbdb946-11bd-453f-a6ed-0d66ef8ee69f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FundamentalsOfC++.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WelcomeMessage.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="ADaysSalary.cpp">
+      <Filter>Source Files\Sources</Filter>
     </ClCompile>
     <ClCompile Include="DataTypeSize.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayASCII.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayCharacters.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="IncrementCalculation.cpp">
+      <Filter>Source Files\Sources</Filter>
     </ClCompile>
     <ClCompile Include="LibraryBooks.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Sources</Filter>
     </ClCompile>
-    <ClCompile Include="ADaysSalary.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="SalaryInformation.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="WelcomeMessage.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FindSeason.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplyFirstAndLastInteger.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MovieTicketCalculation.cpp">
+      <Filter>Source Files\Sources</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="WelcomeMessage.h">
-      <Filter>Header Files\Fundamentals of C++</Filter>
+    <ClInclude Include="ADaysSalary.h">
+      <Filter>Header Files\Fundamentals of C++\Module3</Filter>
     </ClInclude>
     <ClInclude Include="DataTypeSize.h">
-      <Filter>Header Files\Fundamentals of C++</Filter>
+      <Filter>Header Files\Fundamentals of C++\Module3</Filter>
     </ClInclude>
     <ClInclude Include="LibraryBooks.h">
-      <Filter>Header Files\Fundamentals of C++</Filter>
+      <Filter>Header Files\Fundamentals of C++\Module3</Filter>
     </ClInclude>
-    <ClInclude Include="ADaysSalary.h">
-      <Filter>Header Files\Fundamentals of C++</Filter>
+    <ClInclude Include="WelcomeMessage.h">
+      <Filter>Header Files\Fundamentals of C++\Module3</Filter>
+    </ClInclude>
+    <ClInclude Include="SalaryInformation.h">
+      <Filter>Header Files\Fundamentals of C++\Module3</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayASCII.h">
+      <Filter>Header Files\Fundamentals of C++\Module4</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayCharacters.h">
+      <Filter>Header Files\Fundamentals of C++\Module4</Filter>
+    </ClInclude>
+    <ClInclude Include="IncrementCalculation.h">
+      <Filter>Header Files\Fundamentals of C++\Module4</Filter>
+    </ClInclude>
+    <ClInclude Include="FindSeason.h">
+      <Filter>Header Files\Fundamentals of C++\Module4</Filter>
+    </ClInclude>
+    <ClInclude Include="MovieTicketCalculation.h">
+      <Filter>Header Files\Fundamentals of C++\Module4</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiplyFirstAndLastInteger.h">
+      <Filter>Header Files\Fundamentals of C++\Module5</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
