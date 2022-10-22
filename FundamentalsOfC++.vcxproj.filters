@@ -66,6 +66,12 @@
     <ClCompile Include="MovieTicketCalculation.cpp">
       <Filter>Source Files\Sources</Filter>
     </ClCompile>
+    <ClCompile Include="DivisiblebyEight.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="LuckyNumber.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ADaysSalary.h">
@@ -99,6 +105,12 @@
       <Filter>Header Files\Fundamentals of C++\Module4</Filter>
     </ClInclude>
     <ClInclude Include="MultiplyFirstAndLastInteger.h">
+      <Filter>Header Files\Fundamentals of C++\Module5</Filter>
+    </ClInclude>
+    <ClInclude Include="DivisiblebyEight.h">
+      <Filter>Header Files\Fundamentals of C++\Module5</Filter>
+    </ClInclude>
+    <ClInclude Include="LuckyNumber.h">
       <Filter>Header Files\Fundamentals of C++\Module5</Filter>
     </ClInclude>
   </ItemGroup>

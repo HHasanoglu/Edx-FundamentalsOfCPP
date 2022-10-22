@@ -10,7 +10,7 @@ public:
 	}
 
 private:
-	static int Multiply() 
+	static void Multiply() 
 	{
         int input = 0;
         std::cin >> input;

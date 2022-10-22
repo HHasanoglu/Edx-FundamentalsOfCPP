@@ -14,6 +14,8 @@
 #include "FindSeason.h"
 #include "MovieTicketCalculation.h"
 #include "MultiplyFirstAndLastInteger.h"
+#include "DivisiblebyEight.h"
+#include "LuckyNumber.h"
 using namespace std;
 int main()
 {
@@ -27,5 +29,7 @@ int main()
     //IncrementCalculation::Run();
     //FindSeason::Run();
     //MovieTicketCalculation::Run();
-    MultiplyFirstAndLastInteger::Run();
+    //MultiplyFirstAndLastInteger::Run();
+    //DivisiblebyEight::Run();
+    LuckyNumber::Run();
 }

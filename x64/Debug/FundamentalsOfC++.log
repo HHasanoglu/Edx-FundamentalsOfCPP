@@ -1,2 +1,10 @@
-﻿  FundamentalsOfC++.cpp
-D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\FundamentalsOfC++.cpp : fatal  error C1041: cannot open program database 'D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\x64\Debug\vc143.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+﻿  DivisiblebyEight.cpp
+D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\DivisiblebyEight.h(17,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FundamentalsOfC++.cpp
+D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\IncrementCalculation.h(29,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\IncrementCalculation.h(30,1): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\FindSeason.h(21,16): warning C4101: 'result': unreferenced local variable
+D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\DivisiblebyEight.h(17,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LuckyNumber.cpp
+  Generating Code...
+  FundamentalsOfC++.vcxproj -> D:\Hamid1\Hassanzada\Projects\C++\Edx-FundamentalsOfCPP\x64\Debug\FundamentalsOfC++.exe

@@ -131,10 +131,12 @@
     <ClCompile Include="DataTypeSize.cpp" />
     <ClCompile Include="DisplayASCII.cpp" />
     <ClCompile Include="DisplayCharacters.cpp" />
+    <ClCompile Include="DivisiblebyEight.cpp" />
     <ClCompile Include="FindSeason.cpp" />
     <ClCompile Include="FundamentalsOfC++.cpp" />
     <ClCompile Include="IncrementCalculation.cpp" />
     <ClCompile Include="LibraryBooks.cpp" />
+    <ClCompile Include="LuckyNumber.cpp" />
     <ClCompile Include="MovieTicketCalculation.cpp" />
     <ClCompile Include="MultiplyFirstAndLastInteger.cpp" />
     <ClCompile Include="SalaryInformation.cpp" />
@@ -145,9 +147,11 @@
     <ClInclude Include="DataTypeSize.h" />
     <ClInclude Include="DisplayASCII.h" />
     <ClInclude Include="DisplayCharacters.h" />
+    <ClInclude Include="DivisiblebyEight.h" />
     <ClInclude Include="FindSeason.h" />
     <ClInclude Include="IncrementCalculation.h" />
     <ClInclude Include="LibraryBooks.h" />
+    <ClInclude Include="LuckyNumber.h" />
     <ClInclude Include="MovieTicketCalculation.h" />
     <ClInclude Include="MultiplyFirstAndLastInteger.h" />
     <ClInclude Include="SalaryInformation.h" />
